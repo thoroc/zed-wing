@@ -4,7 +4,11 @@ description = "Winglang syntax highlighting"
 version = "0.0.1"
 schema_version = 1
 authors = ["thoroc <thomas.a.roche@gmail.com"]
-repository = "https://github.com/thoro/zed-make"
+repository = "https://github.com/thoro/zed-wing"
+
+[language_servers.wing]
+name = "wing"
+language = "winglang"
 
 [grammars.wing]
 repository = "https://github.com/winglang/tree-sitter-wing"

@@ -1,4 +1,4 @@
-# Zed Language Make
+# Zed Language Winglang
 
 Adds `wing` language to [Zed][].
 
