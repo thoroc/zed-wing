@@ -1,0 +1,11 @@
+id = "wing"
+name = "wing"
+description = "Winglang syntax highlighting"
+version = "0.0.1"
+schema_version = 1
+authors = ["thoroc <thomas.a.roche@gmail.com"]
+repository = "https://github.com/thoro/zed-make"
+
+[grammars.wing]
+repository = "https://github.com/winglang/tree-sitter-wing"
+commit = "bd1d35cf3e013dc7e189b46a593bdc2b281b0dd7"
